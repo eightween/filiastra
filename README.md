@@ -1,16 +1,14 @@
-## Hi there 👋
+### hello world
 
-<!--
-**filiastra/filiastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Sophia! I like to build and test solutions for better API and tooling. I help maintain
+[interactions.py](https://github.com/interactions-py) on the side while testing cool project ideas.
 
-Here are some ideas to get you started:
+My current public project is [dcswd](https://github.com/filiastra/dcswd), (pinned below) focused
+on documenting and expanding existing knowledge on DCS World's Lua API. The goal of this project is to
+help enable developers have a better understanding on flyable plugins.
+[dcswd-template](https://github.com/filiastra/dcswd-template) is a complementary project to help
+developers get a quickstart on modding for DCS World.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+*Available for hire, contact via. [Discord](https://discord.com/users/242351388137488384).*
